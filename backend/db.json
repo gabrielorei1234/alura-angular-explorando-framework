@@ -1,0 +1,19 @@
+{
+  "pensamentos":[{
+    "id":1,
+    "conteudo": "Que bom que vc veio",
+    "autoria": "Dev alura",
+    "modelo": "modelo1"
+  },
+  {
+    "id":2,
+    "conteudo": "Que bom que vc foi",
+    "autoria": "Dev alura",
+    "modelo": "modelo2"
+  },{
+    "id":3,
+    "conteudo": "Que bom que vc voei",
+    "autoria": "Dev alura",
+    "modelo": "modelo3"
+  }]
+}
