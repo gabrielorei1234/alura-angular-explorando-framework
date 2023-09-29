@@ -12,6 +12,7 @@ import { ListarPensamentosComponent } from './componentes/pensamentos/listar-pen
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ExcluirPensamentoComponent } from './componentes/excluir-pensamento/excluir-pensamento.component';
+import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pensamento/editar-pensamento.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { ExcluirPensamentoComponent } from './componentes/excluir-pensamento/exc
     CriarPensamentoComponent,
     ListarPensamentosComponent,
     PensamentoComponent,
-    ExcluirPensamentoComponent
+    ExcluirPensamentoComponent,
+    EditarPensamentoComponent
   ],
   imports: [
     BrowserModule,
